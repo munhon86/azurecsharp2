@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\LINQ example\LINQ example\bin\Debug\LINQ example.exe.config
+C:\Users\HP\source\repos\LINQ example\LINQ example\bin\Debug\LINQ example.exe
+C:\Users\HP\source\repos\LINQ example\LINQ example\bin\Debug\LINQ example.pdb
+C:\Users\HP\source\repos\LINQ example\LINQ example\obj\Debug\LINQ example.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\LINQ example\LINQ example\obj\Debug\LINQ example.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LINQ example\LINQ example\obj\Debug\LINQ example.exe
+C:\Users\HP\source\repos\LINQ example\LINQ example\obj\Debug\LINQ example.pdb
